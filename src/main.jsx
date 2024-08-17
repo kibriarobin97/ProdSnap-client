@@ -10,6 +10,7 @@ import Root from './Root/Root.jsx';
 import Home from './Pages/Home.jsx';
 import { Toaster } from 'react-hot-toast';
 import Login from './Pages/Login.jsx';
+import Register from './Pages/Register.jsx';
 
 
 const router = createBrowserRouter([
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: '/login',
         element: <Login></Login>
+      },
+      {
+        path: '/register',
+        element: <Register></Register>
       }
     ]
   },
