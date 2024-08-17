@@ -8,6 +8,8 @@ import {
 } from "react-router-dom";
 import Root from './Root/Root.jsx';
 import Home from './Pages/Home.jsx';
+import { Toaster } from 'react-hot-toast';
+import Login from './Pages/Login.jsx';
 
 
 const router = createBrowserRouter([
@@ -18,6 +20,10 @@ const router = createBrowserRouter([
       {
         path: '/',
         element: <Home></Home>
+      },
+      {
+        path: '/login',
+        element: <Login></Login>
       }
     ]
   },
@@ -27,6 +33,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     <AuthProvider>
       <RouterProvider router={router} />
+      <Toaster />
     </AuthProvider>
   </StrictMode>,
 )
