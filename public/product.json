@@ -1,0 +1,403 @@
+[
+    {
+      "name": "Dell XPS 13",
+      "image": "https://i.ibb.co/JKSr5rV/notebook-xps-9315-nt-blue-gallery-3.jpg",
+      "description": "13-inch laptop with InfinityEdge display and 10th Gen Intel Core.",
+      "price": 1200.99,
+      "category": "Laptop",
+      "brand": "Dell",
+      "ratings": 4.8,
+      "creationDate": "2024-08-17"
+    },
+    {
+      "name": "Apple MacBook Pro",
+      "image": "https://i.ibb.co/s2j40pX/apple-macbook-air-early-2024-apple-m3-chip-8gb-11711605857.webp",
+      "description": "16-inch MacBook Pro with M1 Pro chip for powerful performance.",
+      "price": 2499.00,
+      "category": "Laptop",
+      "brand": "Apple",
+      "ratings": 4.9,
+      "creationDate": "2024-08-16"
+    },
+    {
+      "name": "HP Spectre x360",
+      "image": "https://i.ibb.co/vPYDWs2/HP-1-2.webp",
+      "description": "2-in-1 laptop with a stunning design and exceptional performance.",
+      "price": 1500.50,
+      "category": "Laptop",
+      "brand": "HP",
+      "ratings": 4.7,
+      "creationDate": "2024-08-15"
+    },
+    {
+      "name": "Microsoft Surface Pro 7",
+      "image": "https://i.ibb.co/yXQPmHw/Surface-Pro-7-6.webp",
+      "description": "Ultra-light and versatile, a 2-in-1 laptop and tablet.",
+      "price": 899.99,
+      "category": "Tablet",
+      "brand": "Microsoft",
+      "ratings": 4.6,
+      "creationDate": "2024-08-14"
+    },
+    {
+      "name": "Asus ROG Strix",
+      "image": "https://i.ibb.co/PrNF12Q/ASUS-Rog-Strix-29.webp",
+      "description": "Gaming laptop with powerful hardware and a sleek design.",
+      "price": 1700.75,
+      "category": "Laptop",
+      "brand": "Asus",
+      "ratings": 4.8,
+      "creationDate": "2024-08-13"
+    },
+    {
+      "name": "Logitech MX Master 3",
+      "image": "https://i.ibb.co/kcFn571/mx-master-3-graphite-top-500x500.jpg",
+      "description": "Advanced wireless mouse with ergonomic design and customizable buttons.",
+      "price": 99.99,
+      "category": "Accessories",
+      "brand": "Logitech",
+      "ratings": 4.9,
+      "creationDate": "2024-08-12"
+    },
+    {
+      "name": "Samsung Galaxy Tab S7",
+      "image": "https://i.ibb.co/5vVmcYK/Configurator-02-Tab-S7-Fe-KV-DT-633x475.webp",
+      "description": "High-performance Android tablet with a stunning display and S Pen.",
+      "price": 650.00,
+      "category": "Tablet",
+      "brand": "Samsung",
+      "ratings": 4.7,
+      "creationDate": "2024-08-11"
+    },
+    {
+      "name": "Apple iPhone 14 Pro",
+      "image": "https://i.ibb.co/Jrdk9nS/i-Phone-14-Pro-Deep-Purple-7300.jpg",
+      "description": "The latest iPhone with advanced features and exceptional performance.",
+      "price": 1099.00,
+      "category": "Smartphone",
+      "brand": "Apple",
+      "ratings": 4.8,
+      "creationDate": "2024-08-10"
+    },
+    {
+      "name": "Google Pixel 7",
+      "image": "https://i.ibb.co/Zf9k7yb/Pixel-7-Obsidian-1130.jpg",
+      "description": "Google's flagship smartphone with the latest Android OS and camera tech.",
+      "price": 899.00,
+      "category": "Smartphone",
+      "brand": "Google",
+      "ratings": 4.7,
+      "creationDate": "2024-08-09"
+    },
+    {
+      "name": "Sony WH-1000XM4",
+      "image": "https://i.ibb.co/RSfVN7R/2097-43505.jpg",
+      "description": "Industry-leading noise-cancelling wireless headphones with superior sound quality.",
+      "price": 349.99,
+      "category": "Accessories",
+      "brand": "Sony",
+      "ratings": 4.9,
+      "creationDate": "2024-08-08"
+    },
+    {
+      "name": "Apple Watch Series 8",
+      "image": "https://i.ibb.co/R6Z9zpv/Starlight-8105.jpg",
+      "description": "Smartwatch with advanced health features and always-on display.",
+      "price": 399.00,
+      "category": "Wearable",
+      "brand": "Apple",
+      "ratings": 4.8,
+      "creationDate": "2024-08-07"
+    },
+    {
+      "name": "Dell Ultrasharp 27",
+      "image": "https://i.ibb.co/ZgPdr5Q/A1-Iqr2v1-SIL-AC-SX425.jpg",
+      "description": "27-inch 4K monitor with ultra-thin bezels and accurate color reproduction.",
+      "price": 750.00,
+      "category": "Monitor",
+      "brand": "Dell",
+      "ratings": 4.8,
+      "creationDate": "2024-08-06"
+    },
+    {
+      "name": "Apple AirPods Pro",
+      "image": "https://i.ibb.co/XVHZt6h/71zny7-BTRl-L-AC-SX466.jpg",
+      "description": "Wireless earbuds with active noise cancellation and transparency mode.",
+      "price": 249.99,
+      "category": "Accessories",
+      "brand": "Apple",
+      "ratings": 4.7,
+      "creationDate": "2024-08-05"
+    },
+    {
+      "name": "Razer BlackWidow Elite",
+      "image": "https://i.ibb.co/r2FKZYt/razer-blackwidow-elite-html-500x500.jpg",
+      "description": "Mechanical gaming keyboard with RGB lighting and customizable macros.",
+      "price": 170.00,
+      "category": "Accessories",
+      "brand": "Razer",
+      "ratings": 4.6,
+      "creationDate": "2024-08-04"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3080",
+      "image": "https://i.ibb.co/g4z7kp9/rtx-3080-oc-01-500x500.jpg",
+      "description": "High-end graphics card for gaming and professional use with ray tracing.",
+      "price": 999.99,
+      "category": "Components",
+      "brand": "NVIDIA",
+      "ratings": 4.9,
+      "creationDate": "2024-08-03"
+    },
+    {
+      "name": "Corsair Vengeance LPX 16GB",
+      "image": "https://i.ibb.co/znKmZhN/16gb-ddr4-500x500.jpg",
+      "description": "High-performance DDR4 memory for gaming and overclocking.",
+      "price": 89.99,
+      "category": "Components",
+      "brand": "Corsair",
+      "ratings": 4.8,
+      "creationDate": "2024-08-02"
+    },
+    {
+      "name": "WD My Passport 4TB",
+      "image": "https://i.ibb.co/3z7KM4c/my-passport-hdd-500x500.jpg",
+      "description": "Portable external hard drive with automatic backup software.",
+      "price": 119.99,
+      "category": "Storage",
+      "brand": "Western Digital",
+      "ratings": 4.7,
+      "creationDate": "2024-08-01"
+    },
+    {
+      "name": "Samsung T7 Touch Portable SSD",
+      "image": "https://i.ibb.co/NZSv5Y1/81-CP92-VDIPL-AC-SX679.jpg",
+      "description": "Fast and secure portable SSD with fingerprint security.",
+      "price": 169.99,
+      "category": "Storage",
+      "brand": "Samsung",
+      "ratings": 4.9,
+      "creationDate": "2024-07-31"
+    },
+    {
+      "name": "Logitech C920 HD Pro Webcam",
+      "image": "https://i.ibb.co/Rpz2Lcy/hd-pro-c920-1-500x500.jpg",
+      "description": "HD webcam with 1080p video quality for video calls and streaming.",
+      "price": 79.99,
+      "category": "Accessories",
+      "brand": "Logitech",
+      "ratings": 4.6,
+      "creationDate": "2024-07-30"
+    },
+    {
+      "name": "Samsung Odyssey G9",
+      "image": "https://i.ibb.co/2tP7Xqz/samsung-odyssey-g9-g95sc-49-inch-dqhd-oled-hdmi-11692963697.webp",
+      "description": "49-inch ultra-wide gaming monitor with 240Hz refresh rate and 1000R curvature.",
+      "price": 1399.99,
+      "category": "Monitor",
+      "brand": "Samsung",
+      "ratings": 4.9,
+      "creationDate": "2024-07-29"
+    },
+    {
+      "name": "HyperX Cloud II Gaming Headset",
+      "image": "https://i.ibb.co/LtmNC4Z/71u77-S3-Cd-SL-AC-SX300-SY300-QL70-FMwebp.webp",
+      "description": "Comfortable gaming headset with virtual 7.1 surround sound.",
+      "price": 99.99,
+      "category": "Accessories",
+      "brand": "HyperX",
+      "ratings": 4.7,
+      "creationDate": "2024-07-28"
+    },
+    {
+      "name": "Acer Predator Helios 300",
+      "image": "https://i.ibb.co/vdCgKZD/predator-helios-300-01-500x500.jpg",
+      "description": "Gaming laptop with a powerful Intel Core i7 and NVIDIA RTX graphics.",
+      "price": 1299.99,
+      "category": "Laptop",
+      "brand": "Acer",
+      "ratings": 4.8,
+      "creationDate": "2024-07-27"
+    },
+    {
+      "name": "LG UltraFine 5K Display",
+      "image": "https://i.ibb.co/rZDkbS5/718b-Id-YZ7-L-AC-SX425.jpg",
+      "description": "27-inch 5K display with Thunderbolt 3 connectivity and P3 wide color gamut.",
+      "price": 1299.00,
+      "category": "Monitor",
+      "brand": "LG",
+      "ratings": 4.8,
+      "creationDate": "2024-07-26"
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "image": "https://i.ibb.co/TWmVKmR/Lenovo-Think-Pad-X1-Carbon-Gen-10-1127.jpg",
+      "description": "Ultra-lightweight business laptop with exceptional performance and durability.",
+      "price": 1899.00,
+      "category": "Laptop",
+      "brand": "Lenovo",
+      "ratings": 4.7,
+      "creationDate": "2024-07-25"
+    },
+    {
+      "name": "Samsung Galaxy S22 Ultra",
+      "image": "https://i.ibb.co/JzhvZRy/4679-9527.jpg",
+      "description": "Flagship smartphone with S Pen support and a quad-camera setup.",
+      "price": 1299.99,
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "ratings": 4.9,
+      "creationDate": "2024-07-24"
+    },
+    {
+      "name": "Corsair K95 RGB Platinum XT",
+      "image": "https://i.ibb.co/ChHyh6J/k95-500x500.jpg",
+      "description": "Mechanical gaming keyboard with dynamic RGB lighting and programmable keys.",
+      "price": 199.99,
+      "category": "Accessories",
+      "brand": "Corsair",
+      "ratings": 4.8,
+      "creationDate": "2024-07-23"
+    },
+    {
+      "name": "Sony Bravia X90J 55-inch",
+      "image": "https://i.ibb.co/ckg7Wbf/Sony-X90-J-01.jpg",
+      "description": "4K Ultra HD Smart TV with Full Array LED and Google TV.",
+      "price": 1199.99,
+      "category": "Television",
+      "brand": "Sony",
+      "ratings": 4.9,
+      "creationDate": "2024-07-22"
+    },
+    {
+      "name": "Bose QuietComfort 35 II",
+      "image": "https://i.ibb.co/x1Vg5Gf/61-Pz-LRRx-Rb-L-AC-SX300-SY300-QL70-FMwebp.webp",
+      "description": "Wireless noise-cancelling headphones with Alexa voice control.",
+      "price": 299.99,
+      "category": "Accessories",
+      "brand": "Bose",
+      "ratings": 4.8,
+      "creationDate": "2024-07-21"
+    },
+    {
+      "name": "Netgear Nighthawk AX12",
+      "image": "https://i.ibb.co/1QGwmW2/B1-rax120-32-tcm148-139328.jpg",
+      "description": "WiFi 6 router with 12-stream capabilities for ultra-fast and reliable internet.",
+      "price": 499.99,
+      "category": "Networking",
+      "brand": "Netgear",
+      "ratings": 4.7,
+      "creationDate": "2024-07-20"
+    },
+    {
+      "name": "TP-Link Deco X60",
+      "image": "https://i.ibb.co/Y3fvNYb/deco-x60-2-pack-500x500.jpg",
+      "description": "Mesh WiFi system with WiFi 6 for seamless whole-home coverage.",
+      "price": 269.99,
+      "category": "Networking",
+      "brand": "TP-Link",
+      "ratings": 4.6,
+      "creationDate": "2024-07-19"
+    },
+    {
+      "name": "Asus ZenBook 14",
+      "image": "https://i.ibb.co/8MmV8MM/zenbook-14-um425ua-01-500x500.webp",
+      "description": "Ultra-slim laptop with a powerful processor and long battery life.",
+      "price": 999.99,
+      "category": "Laptop",
+      "brand": "Asus",
+      "ratings": 4.8,
+      "creationDate": "2024-07-18"
+    },
+    {
+      "name": "Canon EOS R5",
+      "image": "https://i.ibb.co/djJXc1n/71hp-UUc-C5u-L-AC-SX300-SY300-QL70-FMwebp.webp",
+      "description": "Full-frame mirrorless camera with 8K video recording capabilities.",
+      "price": 3899.99,
+      "category": "Camera",
+      "brand": "Canon",
+      "ratings": 4.9,
+      "creationDate": "2024-07-17"
+    },
+    {
+      "name": "DJI Mavic Air 2",
+      "image": "https://i.ibb.co/M82mzkw/51eae-6s-Qo-L-AC-SY300-SX300.jpg",
+      "description": "Compact and powerful drone with 4K video recording and 48MP photos.",
+      "price": 799.99,
+      "category": "Drone",
+      "brand": "DJI",
+      "ratings": 4.8,
+      "creationDate": "2024-07-16"
+    },
+    {
+      "name": "MSI MPG B550 Gaming Edge",
+      "image": "https://i.ibb.co/VqXKRL1/mpg-b550-gaming-edge-500x500.jpg",
+      "description": "Gaming motherboard with PCIe 4.0 support and advanced cooling.",
+      "price": 179.99,
+      "category": "Components",
+      "brand": "MSI",
+      "ratings": 4.7,
+      "creationDate": "2024-07-15"
+    },
+    {
+      "name": "Epson EcoTank ET-4760",
+      "image": "https://i.ibb.co/02sCZV9/71-Gj-DP4-CD-S-AC-SY300-SX300-QL70-FMwebp.webp",
+      "description": "All-in-one printer with high-capacity ink tanks for cost-effective printing.",
+      "price": 499.99,
+      "category": "Printer",
+      "brand": "Epson",
+      "ratings": 4.8,
+      "creationDate": "2024-07-14"
+    },
+    {
+      "name": "Samsung Galaxy Buds Pro",
+      "image": "https://i.ibb.co/1nW6S34/2119-21091.jpg",
+      "description": "True wireless earbuds with active noise cancellation and immersive sound.",
+      "price": 199.99,
+      "category": "Accessories",
+      "brand": "Samsung",
+      "ratings": 4.7,
+      "creationDate": "2024-07-13"
+    },
+    {
+      "name": "Razer Blade 15 Advanced",
+      "image": "https://i.ibb.co/3NKQ2k1/base-model-1-500x500.jpg",
+      "description": "High-performance gaming laptop with a 300Hz display and RTX graphics.",
+      "price": 2699.99,
+      "category": "Laptop",
+      "brand": "Razer",
+      "ratings": 4.9,
+      "creationDate": "2024-07-12"
+    },
+    {
+        "name": "AMD Ryzen 9 5950X",
+        "image": "https://i.ibb.co/L1HbtCR/ryzen-9-5950x-1-500x500.jpg",
+        "description": "16-core processor with exceptional performance for gaming and content creation.",
+        "price": 799.99,
+        "category": "Components",
+        "brand": "AMD",
+        "ratings": 4.9,
+        "creationDate": "2024-07-11"
+      },
+      {
+        "name": "SteelSeries Arctis Pro",
+        "image": "https://i.ibb.co/bQm216K/61km-Siycc-UL-AC-SY300-SX300-QL70-FMwebp.webp",
+        "description": "High-fidelity gaming headset with DTS surround sound and customizable RGB lighting.",
+        "price": 249.99,
+        "category": "Accessories",
+        "brand": "SteelSeries",
+        "ratings": 4.8,
+        "creationDate": "2024-07-10"
+      },
+      {
+        "name": "LG Gram 17",
+        "image": "https://i.ibb.co/dKzMkHb/81in-Fqt1-Mi-L-AC-SX300-SY300-QL70-FMwebp.webp",
+        "description": "Ultra-light 17-inch laptop with a long battery life and powerful performance.",
+        "price": 1699.99,
+        "category": "Laptop",
+        "brand": "LG",
+        "ratings": 4.7,
+        "creationDate": "2024-07-09"
+      }
+  ]
+  
